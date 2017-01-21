@@ -1,0 +1,21 @@
+# Site settings
+title: Code && Logic && Coffee
+header-img: img/home-bg.png
+email: mdjurdj1@binghamton.edu
+copyright_name: mdjurdj1
+description: > # this means to ignore newlines until "baseurl:"
+  The musings of a would-be lawyer learning the art of programming. 
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  mdjurdj1
+learn_profile: mdjurdj1
+email_username: mdjurdj1@binghamton.edu
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
