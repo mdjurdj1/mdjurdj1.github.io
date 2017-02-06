@@ -5,7 +5,6 @@ date:   2017-02-06 17:39:59 -0500
 ---
 
 
-
 For as long as I can remember, I've hated school.  In middle school, my mom struggled every morning to get me out of bed on time for my schoolbus. In high school, I nearly didn't graduate due to attendance problems. My saving grace was that I'm an excellent test taker; I managed to get a stellar SAT score and get into a great university, despite my troubled transcript. A year later, I dropped out of said great university. With time, I did a bit of growing up and managed to come back to school in order to finish my degree - but that's a post for another day...
 		
 See, I almost never enjoyed any of the classes I took over the past twenty years of schooling. Thus, I had serious issues mustering up the motivation to excel in academia. *Why* was I being forced to write essays on asian diaspora poetry for a grade? Why did I need to take this economics class as a graduation requirement? What purpose does an intro to psychology course serve for someone who doesn't want to be a psychologist? Having a holistic, educated opinion on a broad range of topics is fine and dandy, but wasn't college supposed to prepare me for the adult world? Were any of these courses really important enough to my future to warrant months of effort and coursework?
