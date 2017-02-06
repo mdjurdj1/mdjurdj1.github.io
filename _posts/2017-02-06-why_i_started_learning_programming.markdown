@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why I Started Learning Programming"
-date:   2017-02-06 22:39:58 +0000
+date:   2017-02-06 17:39:59 -0500
 ---
 
 
@@ -10,7 +10,7 @@ For as long as I can remember, I've hated school.  In middle school, my mom stru
 		
 See, I almost never enjoyed any of the classes I took over the past twenty years of schooling. Thus, I had serious issues mustering up the motivation to excel in academia. *Why* was I being forced to write essays on asian diaspora poetry for a grade? Why did I need to take this economics class as a graduation requirement? What purpose does an intro to psychology course serve for someone who doesn't want to be a psychologist? Having a holistic, educated opinion on a broad range of topics is fine and dandy, but wasn't college supposed to prepare me for the adult world? Were any of these courses really important enough to my future to warrant months of effort and coursework?
 		 
-> 		 "Well, you need a college degree to land a decent job! Your grades are very important!"
+>  "Well, you need a college degree to land a decent job! Your grades are very important!"
 		 
 Sure, a college degree these days is just about a requirement for most steady, decent jobs. I understood (especially after my first year out of school) that life would be much, much harder without a college degree. So, I had decent enough motivation to continue - I need to graduate in order to not be a cashier for the rest of my life. Fair enough. My issue was that nothing I was learning felt tangible or meaningful to me. I was disconnected from nearly every essay I wrote, every test I studied for, and every assignment I submitted. For those of you who genuinely enjoyed your courses in school & college; I am truly envious of you. I can count the times I was excited about my classes on a single hand.
 
