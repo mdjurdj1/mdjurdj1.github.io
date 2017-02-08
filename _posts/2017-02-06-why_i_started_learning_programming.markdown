@@ -13,8 +13,8 @@ See, I almost never enjoyed any of the classes I took over the past twenty years
 		 
 Sure, a college degree these days is just about a requirement for most steady, decent jobs. I understood (especially after my first year out of school) that life would be much, much harder without a college degree. So, I had decent enough motivation to continue - I need to graduate in order to not be a cashier for the rest of my life. Fair enough. My issue was that nothing I was learning felt tangible or meaningful to me. I was disconnected from nearly every essay I wrote, every test I studied for, and every assignment I submitted. For those of you who genuinely enjoyed your courses in school & college; I am truly envious of you. I can count the times I was excited about my classes on a single hand.
 
-   ![](https://s-media-cache-ak0.pinimg.com/600x315/16/84/3f/16843fccda656b1bf1629a19309bf89d.jpg)
-  > The joys of waking up at 8am for some sociology class you only took for a graduation requirement.
+![](https://s-media-cache-ak0.pinimg.com/600x315/16/84/3f/16843fccda656b1bf1629a19309bf89d.jpg)
+* The joys of waking up at 8am for some sociology class you only took for a graduation requirement.*
 
 The process of learning programming has been the complete opposite of everything I've just described. For the first time in my life, I wake up ecstatic knowing that I'm going to **learn** something new and refine my skillset. One might ask, what's the difference between studying programming and the things you studied in college? The difference is that I'm creating something everytime I sit down to code. It seems so simple, but it's the difference between admiring someone else's painting, and learning how to paint your own masterpiece. I feel a profound sense of accomplishment whenever I complete a project and it works like I expect it to. When I fail, I'm reminded that I have so much to learn. Either way, the process is immensely addicting and feels rewarding on a very personal level.
 
