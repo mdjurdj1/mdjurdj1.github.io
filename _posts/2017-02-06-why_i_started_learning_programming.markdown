@@ -11,7 +11,7 @@ After twenty years of being a student, I can probably count the number of course
 		 
 >  "Well, you need a college degree to land a decent job! Your future is in jeapordy if you get a C in your underwater basket-weaving class!"
 		 
-Yeah - okay, I get it; a college degree these days is just about a requirement for most steady, decent jobs. I understood (especially after my first year out of school) that life would be much, much harder without that first degree. So, I had decent enough motivation to continue - I need to graduate in order to not be a cashier for the rest of my life. Fair enough. My issue was that nothing I was learning felt tangible or meaningful to me. I was disconnected from nearly every essay I wrote, every test I studied for, and every assignment I submitted. For those of you who genuinely enjoyed your courses in school & college; I am truly envious of you. 
+Yeah - okay, I get it; a college degree these days is just about a requirement for most steady, decent jobs. I understood (especially after my first year out of school) that life would be much, much harder without that first degree headlining my resume. So, I had decent enough motivation to continue - I need to graduate in order to not be a cashier for the rest of my life. Fair enough. My issue was that nothing I was learning felt tangible or meaningful to me. I was disconnected from nearly every essay I wrote, every test I studied for, and every assignment I submitted. For those of you who genuinely enjoyed your courses in school & college; I am truly envious of you. 
 
 ![](https://s-media-cache-ak0.pinimg.com/600x315/16/84/3f/16843fccda656b1bf1629a19309bf89d.jpg)
 *The joys of waking up at 8am for some sociology class you only took for a graduation requirement.*
