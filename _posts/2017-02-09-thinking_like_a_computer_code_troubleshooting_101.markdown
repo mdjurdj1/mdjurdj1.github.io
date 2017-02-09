@@ -8,7 +8,7 @@ date:   2017-02-09 18:10:10 -0500
 ![](http://img01.deviantart.net/bef0/i/2016/319/f/b/thinking_like_a_computer_by_minadavic-daojjsp.png)
 *Source: "Adorkadorks" by Minadavic. Link at bottom of page!*
 
-Over the past several weeks, I've spent a few hundred hours trying to grow my programming skillset. When I started, I had little-to-no coding experience. I think I wrote a tiny Java program in middle school comp sci class once (spoiler: it didn't work). So, like many programming newbies, I've gotten stuck many, many times on coding solutions for seemingly simple problems. I cannot count the amount of times I've stared at a method three to four times long and thought to myself: *"Why the hell isn't this thing working like I want it to?"* Off the top of my head, I can think of several specific coding concepts which repeatedly stumped me:
+Over the past several weeks, I've spent a few hundred hours trying to grow my programming skillset. When I started, I had little-to-no coding experience. I think I wrote a tiny Java program in middle school comp sci class once (spoiler: it didn't work). So, like many programming newbies, I've gotten stuck many, many times on coding solutions for seemingly simple problems. I cannot count the amount of times I've stared at a method three to four lines long and thought to myself: *"Why the hell isn't this thing working like I want it to?"* Off the top of my head, I can think of several specific coding concepts which repeatedly stumped me:
 
 * Why is this iterator loop not doing what I want it to do?
 * Why doesn't this if/else statement trigger like I expect it to?
