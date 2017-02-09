@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Why I Started Learning Programming"
+title:  "Why I Started Programming"
 date:   2017-02-06 17:39:59 -0500
 ---
 
 
-To be perfectly honest, I've never really liked school.
+### To be perfectly honest, I've never really liked school.
 
 After twenty years of being a student, I can probably count the number of courses I genuinely enjoyed on a single hand. Thus, I've always had serious issues mustering up the motivation to excel in academia. *Why* was I being forced to write essays on asian diaspora poetry for a grade? Why did I need to take this economics class as a graduation requirement? What purpose does an intro to psychology course serve for someone who doesn't want to be a psychologist? Having a holistic, educated opinion on a broad range of topics is fine and dandy, but wasn't college supposed to prepare me for the adult world? Were any of these courses really important enough to my future to warrant months of effort and coursework? What exactly am I going to do after I graduate?
 		 
