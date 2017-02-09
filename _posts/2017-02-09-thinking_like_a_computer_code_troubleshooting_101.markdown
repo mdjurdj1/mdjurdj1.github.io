@@ -38,6 +38,6 @@ Hashes still kinda suck, though.
 
 _____________________________________
 
-Adorkadorks Comic: http://https://tapastic.com/series/Adorkadorks
+Adorkadorks Comic: https://tapastic.com/series/Adorkadorks
 
 
