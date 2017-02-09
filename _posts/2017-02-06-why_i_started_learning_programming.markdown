@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why I Started Programming"
+title:  "Why I Started Learning Programming"
 date:   2017-02-06 17:39:59 -0500
 ---
 
