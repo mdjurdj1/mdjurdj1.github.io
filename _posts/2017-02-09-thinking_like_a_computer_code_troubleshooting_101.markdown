@@ -27,7 +27,7 @@ The good news is: the longer you spend coding, the more fluent you become in com
 1. Go through your problem code one line at a time. 
 2. Follow the computer logic for each line. If another method is being called in that line, go to that method immediately as a computer would.
 3. Throw each line, individually, in an IRB session to make sure your logic for that one line is solid. 
-4. With every line of code, check the class and return value of every single variable you come across, every time you come across them. You might be surprised to find a variable returning a value you don't want!
+4. Reading every line of code from left to right, check the class and return value of every single variable you come across, every time you come across them. You might be surprised to find a variable returning a value you don't want!
 5. If you have conditional statements, you're gonna want to check the true/false value of your conditions as you come across them, one at a time.
 6. Narrow down your problematic code blocks into the single lines of code that are breaking your program. Take note of the issue you're having - is it something you struggle with a lot? If so, it's definitely worth trying to deepen your understanding of that concept.
 
