@@ -20,7 +20,7 @@ Unsurprisingly, I see a lot of other beginners fumbling through these same issue
 
 **We, as humans, do not think the same way computers do.**
 
-Humans speak in abstractions and metaphors all the time. "That place we went to eat last time sucked - I'd rather jump off a bridge than go again!" Sure, man, I get what you mean. You gave me enough information to understand you. You can imagine that this syntax is much too vague to make sense of. 'Jump_bridge(me) if place == last ti' ... you see where I'm going with this.
+Humans speak in abstractions and metaphors all the time. "That place we went to eat last time sucked - I'd rather jump off a bridge than go again!" Sure, man, I get what you mean. You gave me enough information to understand you. You can imagine that this syntax is much too vague to make sense of. 'jump_bridge(me) if place == last ti' ... you see where I'm going with this.
 
 The good news is: the longer you spend coding, the more fluent you become in computer-thinking. In reality, computer-think is suprisingly simple - computers take everything you type one-hundred-percent literally. They read from top to bottom, and left to right. They immediately forget things unless they're told to remember them. There aren't very many quirks to the expected behavior of your computer (well, the language you code in might have a few nuances). So, the next time you get stuck on a problem, try to think like your computer:
 
@@ -38,6 +38,6 @@ Hashes still kinda suck, though.
 
 _____________________________________
 
-Adorkadorks Comic: [](http://https://tapastic.com/series/Adorkadorks)
+Adorkadorks Comic: http://https://tapastic.com/series/Adorkadorks
 
 
