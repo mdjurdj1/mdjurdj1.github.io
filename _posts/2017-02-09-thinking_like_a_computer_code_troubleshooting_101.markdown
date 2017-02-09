@@ -12,7 +12,7 @@ Over the past several weeks, I've spent a few hundred hours trying to grow my pr
 
 * Why is this iterator loop not doing what I want it to do?
 * Why doesn't this if/else statement trigger like I expect it to?
-* My && and/or || statements are always broken!
+* My and/or statements are always broken! Why isn't it evaluating the entire line?
 * Why are you returning an array/string, I just wanted an integer!
 * Working with hashes is confusing, my brain hurts.
 
