@@ -25,16 +25,16 @@ Scraping is hard. About 90% of my issues while developing my app had to do with 
 
 Flawless scraping was made even more important because of the fact that my game objects depended entirely on scraped parameters for instantiation. Here's just a small portion of my custom game constructor, which takes an XML file from the scraper class, and converts it into a game object:
 
-  ```
-	if game.css(".game-link").text == "Preview"  
-      self.new(
-        game.css("div.media-body")[0].css("span").text,
-        game.css("div.media-body")[1].css("span").text,
-        game.attribute("data-league").text.upcase,
-        game.css(".status-pregame").text.gsub(" ", "").gsub(/\n/, ""),
-         "http://www.si.com#{game.css(".game-link").attribute("href").text}" )
-	 ```
-				
+```
+if game.css(".game-link").text == "Preview"  
+		self.new(
+			game.css("div.media-body")[0].css("span").text,
+			game.css("div.media-body")[1].css("span").text,
+			game.attribute("data-league").text.upcase,
+			game.css(".status-pregame").text.gsub(" ", "").gsub(/\n/, ""),
+			 "http://www.si.com#{game.css(".game-link").attribute("href").text}" )
+```
+				 
 As you can see, every single parameter for my game object here is scraped. If any of the scraped code within the initialized arguments is off, my code defaults to a "nil" assignment for that argument. I spent a lot of time just getting this constructor to properly instantiate a single game, much less coming up with conditionals to account for games which didn't have reviews, games which were ongoing, finished, etc. Still, when I finally got that first list of properly reported games, it made all the scrawling worth it.
 
 * **Publishing my work!**
