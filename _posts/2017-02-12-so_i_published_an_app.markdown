@@ -41,7 +41,7 @@ As you can see, every single parameter for my game object here is scraped. If an
 
 Learn from my mistake - don't publish your scraping program the same night you feel it's finished. I did just that last night - I was so confident that everything was working that I pushed version 0.1.0 of Gameday right up to Ruby gems and went to bed. When I woke up and ran my app... Half of everything was broken. See, scraping is funny like that - you really need to know the ins and outs of a website, especially if the website is dynamically updated. You need to know what code is changing every day to account for the new information, and your program has to roll with the punches accordingly.
 
-Test your program many times over several to make sure it works as the site is updated!!
+Test your program many times over several different days to make sure it *really* works! Most sites are constantly being updated, and your code is going to need to be *very* accomodating.
 
 Rest assured, after the initial panic of everything being broken, I got back to work on my code and released a patch which significantly improved Gameday's ability to react to its source website. I anticipate that things might yet break in the future, but that's life! All in all, I'm immensely proud of this thing I've created. It's a (very) small step to write a simple program like this one, but I can say that I'm no longer only a student of programming; I'm also a creator. 
 
