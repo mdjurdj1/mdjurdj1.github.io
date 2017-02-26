@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sinatra Project Complete! It's a Verry Good Year!"
-date:   2017-02-26 18:47:05 +0000
+date:   2017-02-26 13:47:06 -0500
 ---
 
 
@@ -13,4 +13,6 @@ As for my project, I made a workout tracker. [Here's a video walkthrough of Gain
 
 A workout tracker is a simple enough idea, but a great one to *flex* my knowledge on (sorry, had to go for the pun). Users can log in, save new workouts, edit those workouts, add notes, add exercises, etc. I took a pretty obsessive approach to security, so passwords are encrypted with bcrypt, salted with a session secret, and web page content is hidden for invalid users. Seems excessive for a simple workout journal, sure, but maybe you're *really secretive* about your excessive amount of chest routines.
 
-I've also learned that front-end web design is not my forte. I can do backend coding like routing, database relationships and object templates all day, but having to struggle with HTML/CSS to get some div containers to line up properly is an absolute nightmare. I'm sure it's the kind of thing that'll get better with experience, but for now, *the front-end development process took just as long, maybe more, than the back-end.* Such is life, I guess. 
+I've also learned that front-end app design is not my forte. I can do backend coding like routing, database relationships and object templates all day, but having to struggle with HTML/CSS to get some div containers to line up properly is an absolute nightmare. I'm sure it's the kind of thing that'll get better with experience, but for now, *the front-end development process took just as long, maybe more, than the back-end.* Such is life, I guess. It probably would've helped to use a bootstrap template for my stylesheet.. but, in my stubbornness, I designed all my code from the ground up. Don't make the same mistake I did - if there's a template you can use to make your stuff look prettier, use it!
+
+Either way, I cannot tell you how relieved I am to have completed this project. I feel proud of my dinky little web app, even if I'm aware of its' shortcomings. I really do feel like I've developed some work-worthy skills, and it's pretty awesome.
