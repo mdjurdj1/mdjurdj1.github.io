@@ -7,7 +7,7 @@ date:   2017-05-11 17:51:50 -0400
 
 This is a bittersweet Blog post. After months of hard work, I find myself at the end of the Flatiron curriculum. For every single day since I started in January, I've pushed myself to learn and code as much as I could with my free time. Truth be told, I didn't ever think about what it would feel like to actually be *done* with all the projects and the curriculum lessons. So, since I have no labs left to work on and Im feeling strangely liberated, I thought I'd begin my day today by writing about the React-Redux project I've put together after the last week, as well as the process of learning React in general.
 
-Without further ado, here's a thumbnail of my project, a simple-youtube browser I called Mini-tube. You can also visit the site yourself at... https://mini-tube-client.herokuapp.com/  (hopefully nothing breaks too badly!)
+Without further ado, here's a thumbnail of my project, a simple-youtube browser I called Mini-tube. You can also visit the site yourself at...  [Mini-tube!](https://mini-tube-client.herokuapp.com/ ) (hopefully nothing breaks too badly!)
 
 ![](http://i.imgur.com/KFmYbGZl.jpg?1)
 
