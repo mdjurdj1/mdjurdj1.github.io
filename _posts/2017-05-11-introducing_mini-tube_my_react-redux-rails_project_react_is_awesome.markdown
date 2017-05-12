@@ -19,7 +19,7 @@ That last bit is really the tough part. React-Redux throws nearly everything you
 
 Ultimately though, React will let you develop an amazingly swift application, with really smart components. Every single thing rendered on a page can be its own component, with knowledge of the application state, of its own state, and the ability to shift or transform in response to User input:
 
-![](http://i.imgur.com/xRNEeUPl.jpg)
+![](http://i.imgur.com/A9wD5Mct.jpg)
 
 Here's a super simple example from my project. This dropdown menu has little list items, and each item can be selected or deselected to add/remove a video from a playlist. Each time a list item is clicked, my React frontend is actually communicating with my database, and storing/removing that specific video from the playlist. Pretty neat. The dropdown is also an animated menu, which was another cool feature to add. It quickly becomes easy to see the creative freedom React gives you on the front end.
 
