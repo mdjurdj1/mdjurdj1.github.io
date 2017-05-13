@@ -9,7 +9,7 @@ This is a bittersweet Blog post. After months of hard work, I find myself at the
 
 Without further ado, here's a thumbnail of my project, a simple-youtube browser I called Mini-tube. You can also visit the site yourself at...  [Mini-tube!](https://mini-tube-client.herokuapp.com/ ) (hopefully nothing breaks too badly!)
 
-![](http://i.imgur.com/KFmYbGZl.jpg?1)
+![](http://i.imgur.com/KFmYbGZh.jpg?1)
 
 In terms of functionality, the app is really simple - it queries the Youtube API for videos, lists videos using your search parameters, and lets users save videos to custom playlists (this data is persisted on the backend, with my seperately deployed Rails API-only server). The user authentication is custom rolled using JWT to generate unique auth tokens, and Jbuilder to serialize the JSON replies from my API routes. Though my app doesn't do all that much (certainly nothing that would compete with youtube), it was by far my most time-consuming project to date. Why, you might ask?
 
