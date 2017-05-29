@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  A Crash Course on Arrow Functions in React Components!
-date:   2017-05-29 14:53:16 +0000
+date:   2017-05-29 10:53:17 -0400
 ---
 
 
@@ -13,22 +13,22 @@ class Button extends Component {
   constructor(props) {
 	super(props)
 	this.state = {
-	   clicked: false
+	  clicked: false
 	}
 	this.handleClick = this.handleclick.bind(this)
-	}
-	
- handleClick = function() {
-    this.setState({
-		   clicked: !this.state.clicked
-		})
  }
 	
-  render() {
-	  return (
-		  <button onClick={this.handleClick()}>Howdy!</button>
-		)
-	}
+ handleClick = function() {
+   this.setState({
+	  clicked: !this.state.clicked
+	})
+ }
+	
+ render() {
+	 return (
+	  <button onClick={this.handleClick()}>Howdy!</button>
+	  )
+  }
 }
 ```
 
@@ -39,19 +39,19 @@ Sadly, if we design our own custom functions outside of render() - like, say, ou
 ```
 class Button extends Component {
 
-  state = { clicked: false }
+ state = { clicked: false }
 	
  handleClick = () => {
-    this.setState({
-		   clicked: !this.state.clicked
-		})
- }
+  this.setState({
+	clicked: !this.state.clicked
+  })
+}
 	
   render() {
-	  return (
-		  <button onClick={this.handleClick()}>Howdy!</button>
-		)
-	}
+	 return (
+	  <button onClick={this.handleClick()}>Howdy!</button>
+	)
+  }
 }
 ```
 
