@@ -32,9 +32,9 @@ class Button extends Component {
 }
 ```
 
-Phew, quite a lot of code going on there for a simple Button component. This is exactly the kind of verbose code that ES6+ React will cut down significantly. See, React is pretty cool, and will automagically bind `this` to the parent component if you use `this` in any method provided by the React API (such as render()! ). See that onClick handler in the render of this component? The `this` here as a context already set because React has bound it for us!
+Phew, quite a lot of code going on there for a simple Button component. This is exactly the kind of verbose code that ES6+ React will cut down significantly. See, React is pretty cool, and will automatically bind `this` to the parent component if you use `this` in any method provided by the React API (such as render()! ). See that onClick handler in the render of this component? The `this` here already points to our Button component because React bound it for us!
 
-Sadly, if we design our own custom functions outside of render() - like, say, our `handleClick()` function - we have to manually assign it a `this` a context ourselves. This is why we have this constructor mumbo jumbo at the head of our component. We're relying on JavaScript's psuedo-class syntax to properly bind the `this` context of our component instances whenever we instantiate a component. **We want `this` to be scoped to our component.** Let's refactor this button using ES6! (Make sure you've got babel and the transform-class-properties plugin!):
+Sadly, if we design our own custom functions outside of render() - like, say, our `handleClick()` function - we have to manually assign it a `this` a context ourselves. Our custom functions don't know they belong to our Button component. This is why we have this constructor mumbo jumbo at the head of our component. We're relying on JavaScript's psuedo-class syntax to properly bind the `this` context of our component instances whenever we instantiate a component. **We want `this` to be scoped to our component.** Let's refactor this button using ES6! (Make sure you've got babel and the transform-class-properties plugin!):
 
 ```
 class Button extends Component {
