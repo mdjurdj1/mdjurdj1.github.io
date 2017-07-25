@@ -30,7 +30,7 @@ div#navarrowleft .text{
 }
 ```
 
-This is a simple animation (I've named it 'fontappear') which transitions the opacity of text over a 2 second window. You might also notice that the little hamburger icon on the top right causes a more complicated full-page animation, which took quite a while to get right. Just remember that some CSS transitions & animations can be taxing for older browsers, so you want to primarily use simple, computationally-cheap transitions. Here's a great article if you want to read more about animation performance: https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/
+This is a simple animation (I've named it 'fontappear') which transitions the opacity of text over a 2 second window. You might also notice that the little hamburger icon on the top right causes a more complicated full-page animation, which took quite a while to get right. Just remember that some CSS transitions & animations can be taxing for older browsers, so you want to primarily use simple, computationally-cheap transitions. Here's a great article if you want to read more about animation performance: [High-performance-animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 
 # Filling In Some Content
 
